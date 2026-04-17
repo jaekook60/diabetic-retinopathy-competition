@@ -50,10 +50,10 @@
 ## 4. 대회 배경 및 데이터 예시
 
 ### Competition Overview
-![Competition Overview](assets/competition_overview.png)
+![Competition Overview](results/competition_overview.png)
 
 ### 단계별 안저 이미지 예시
-![Stage Examples](assets/stage_examples.png)
+![Stage Examples](results/stage_examples.png)
 
 ---
 
@@ -107,7 +107,7 @@
 
 모델이 각 단계를 어떻게 구분했는지 확인하기 위해 confusion matrix를 함께 정리했습니다.
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ---
 
